@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hello. Welcome to my personal space.
 
-### More Information
+### Goal
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+This blog serves me as an easy way to store movie reviews/songs/various links. The intended audience is most likely me in the future, trying to remember something I’ve read once.
